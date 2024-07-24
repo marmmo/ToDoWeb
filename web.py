@@ -31,4 +31,4 @@ st.text_input(label=" ",
               on_change=add_todo)
 
 time.sleep(1)
-st.experimental_rerun()
+st.rerun()
